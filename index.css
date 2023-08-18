@@ -65,7 +65,7 @@ li {
     max-height: 960px;
     margin-left: -8px;
     background-size: cover;
-    background: url(./pepsiBackground.png);
+    background: url(./imagesAndvideos/pepsiBackground.png);
 }
 
 .container {
@@ -81,7 +81,7 @@ li {
 
     height: 110vh;
     width: 40vw;
-    background-image: url(./pepBottle.png);
+    background-image: url(./imagesAndvideos/pepBottle.png);
     background-size: 800px;
     background-repeat: no-repeat;
     margin-left: -18px;
@@ -90,7 +90,7 @@ li {
 .AText1 {
     height: 50vh;
     width: 40vw;
-    background: url(./appleMockup.svg) center center no-repeat;
+    background: url(./imagesAndvideos/appleMockup.svg) center center no-repeat;
     margin-left: -500px;
     padding-right: 300px;
 }
@@ -205,7 +205,7 @@ li {
 
 .pepsiNitroContainer {
     margin-left: -8px;
-    background-image: url(./Nitro_background.png);
+    background-image: url(./imagesAndvideos/Nitro_background.png);
     height: 900px;
     width: 100vw;
     background-size: cover;
@@ -330,7 +330,7 @@ li {
     margin-left: -8px;
     margin-top: -8px;
     padding-top: 50px;
-    background-image: url(./ThatsWhatILikeBackGround.png);
+    background-image: url(./imagesAndvideos/ThatsWhatILikeBackGround.png);
     display: flex;
 }
 
@@ -348,7 +348,7 @@ li {
     width: 2400px;
     height: 800px;
     display: flex;
-    background-image: url(./FavouriteFlavorsBackGround.png);
+    background-image: url(./imagesAndvideos/FavouriteFlavorsBackGround.png);
 
 }
 
